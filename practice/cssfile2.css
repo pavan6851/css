@@ -1,0 +1,18 @@
+h3 {
+    color: black;
+    background-color: rgb(204, 163, 163);
+}
+
+p {
+    color: black;
+    background-color: rgb(203, 248, 248);
+}
+
+button {
+    color: #0000ff;
+    background-color: #ffff00;
+} 
+
+body {
+    background-color: grey;
+} 

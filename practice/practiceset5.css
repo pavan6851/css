@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    color: black;
+    height:100px;
+    width: 100px;
+    background-color: grey;
+    background-image: url("deer.jpg");
+    background-size: cover;
+    border: 4px solid black;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+}

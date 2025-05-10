@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#Container{
+    width: 700px; 
+    height: 300px;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    /*flex-wrap: wrap;*/
+    align-items: flex-start;
+    /*align-content: flex-start;*/
+}
+
+#box1{
+    background-color: pink; 
+}
+ 
+#box2{
+    height: 200px;
+    background-color: greenyellow;
+    flex-grow: 1;
+   
+} 
+
+#box3{
+    height: 75px;
+    background-color: peru;
+}
+
+#box4{
+    background-color: aqua;
+}
+
+#box5{
+    background-color: grey;
+
+}

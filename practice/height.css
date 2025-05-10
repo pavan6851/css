@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    /*height part*/
+    height:100px;
+    /*width part*/
+    width:100px;
+    /*border part*/
+    background-color: pink;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(65, 29, 196);
+}
+
+button{
+    border:3px,solid,black;
+}
+
+h1{
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    background-color: aquamarine;
+    border:2px,solid,black;
+}
+ 
+body{
+    background-color: grey;
+} 

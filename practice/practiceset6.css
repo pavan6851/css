@@ -1,0 +1,32 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+li{
+    list-style-type:none ;
+    display: inline;
+}
+
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: peru;
+    display: flex;
+    justify-content: center; /*horizontally align*/
+    align-items: center;     /*vertically align*/  
+}
+
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: palegreen;
+    align-self: center;
+}

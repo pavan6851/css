@@ -1,0 +1,22 @@
+.loader{
+    text-align: center;
+    color: white;
+    height: 200px;
+    width: 200px;
+    border: 15px solid black;
+    border-left: 15px solid #bbdb9b;
+    border-radius: 50%;
+    animation: animate 1s ease-in-out 0s infinite normal;
+
+}
+
+@keyframes animate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+
